@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexey-Naumenko
-- 👀 I work at some IT-company, and am also involved in the development of the CoMaps project. At my day job, I'm an IT recruiter.  
+- 👀 I work in some IT-company, and am also involved in the development of the CoMaps project. At my day job, I'm an IT recruiter.  
 In my spare time, I'm busy helping to develop a free offline maps app [https://github.com/organicmaps/organicmaps](https://www.comaps.app/) based on the OpenStreetMap project, 
 as well as maintaining several non-profit project e.g. https://github.com/safetytracker  (free open source geo-locator via SMS)
 - 📫 How to reach me: https://t.me/ooprizrakoo
